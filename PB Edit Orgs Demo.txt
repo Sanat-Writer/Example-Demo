@@ -11,8 +11,14 @@ To access this page directly, copy and share its URL with the User.
 
 ##### Basic info
 
+In this tab, the User can switch between different options, according to his organization’s requirements.
+
 ##### Organization Rating
 
 ##### Contact info
 
 ##### Social URLs
+- Facebook
+- Twitter
+- Instagram
+- Snapchat
