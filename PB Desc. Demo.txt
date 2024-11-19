@@ -1,0 +1,5 @@
+
+# PICKLEBALL
+
+At the Home Page of the Backend Website, the user can see many options like Analytics, Executive Dashboards, Organizations, Pickleball Inc., PPA, Team Leagues, Tournament and, Users.
+Out of these, we will focus only on the 'Organizations' and will get a detailed info out of it.
