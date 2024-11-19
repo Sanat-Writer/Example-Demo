@@ -1,11 +1,18 @@
 ### Edit Organization
 
 In this option the user has to fill up a series of forms that is categorised quite differently and is required to be filled for the organizational basic information. 
+When the User jumps into a specific organization, he can see multiple options/sections, which are the basic information that defines the specifications of that particular organization.
 
-#### Basic info
+#### Organization Info
 
-#### Organization Rating
+This option helps the User to fill out all the basic and necessary information related to the organization.
+To access this page directly, copy and share its URL with the User.
 
-#### Contact info
 
-#### Social URLs
+##### Basic info
+
+##### Organization Rating
+
+##### Contact info
+
+##### Social URLs
